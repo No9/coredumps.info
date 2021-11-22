@@ -7,5 +7,5 @@ title = "Core Dumps Information"
 
 
 [output.html]
-default-theme="Navy"
-git-repository-url="https://github.com/roche-rs/website"
+default-theme="light"
+git-repository-url="https://github.com/no9/coredumps.info"
